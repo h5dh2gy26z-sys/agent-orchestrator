@@ -64,7 +64,7 @@
     "@xterm/addon-web-links": "0.13.0-beta.256",
     "@xterm/addon-webgl": "0.20.0-beta.255",
     "@xterm/xterm": "6.1.0-beta.256",
-    "next": "^15.1.0",
+    "next": "^15.5.18",
     "next-themes": "^0.4.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
